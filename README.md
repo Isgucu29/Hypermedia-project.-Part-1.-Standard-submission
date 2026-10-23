@@ -40,7 +40,7 @@ The only decoration is two big black circles cut by the corners of the page, one
 
 FIGMA PROJECT
 
-https://www.figma.com/design/wZFdhWj5ExVmPJpEz7QITl/CV-Web---Isaac-G%C3%BCell
+https://www.figma.com/design/RjyYY1frcDrGQgSLLZ39P4/CV-Web---Isaac-G%C3%BCell?node-id=0-1&p=f&t=jdG0g3mfCWObMgjL-0
 
 
 FILES
